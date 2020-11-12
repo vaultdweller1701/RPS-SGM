@@ -35,7 +35,7 @@ namespace RockPaperScissors
             }
 
             Console.WriteLine("Thanks for playing!");
-            //Thread.Sleep(500);
+            Thread.Sleep(500);
         }
     }
 }
